@@ -1,14 +1,11 @@
 <h1 align="center">
   <img src="https://i.ibb.co/g3b6q2z/webpack.png" alt="webpack" border="0">
 <br>
-<br>
-WEBPACK ESSENTIALS
 </h1>
 
 > Status do Projeto: Under development :warning: => :construction::construction::construction::construction::construction:
 > :guitar: JR Dev :guitar:
 
-![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
 ![Badge](https://img.shields.io/github/issues/humbertoromanojr/all-about-webpack?logo=visual-studio-code&style=plastic&logo=appveyor)
 ![Badge](https://img.shields.io/github/forks/humbertoromanojr/all-about-webpack)
