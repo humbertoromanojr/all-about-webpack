@@ -1,5 +1,5 @@
-import Heading from './heading.js'
-import sum from './calculator';
+import Heading from './components/heading.js'
+import sum from './components/calculator.js';
 
 console.log('Test working webpack, with webpack.config');
 
