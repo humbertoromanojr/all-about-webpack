@@ -1,1 +1,0 @@
-(()=>{"use strict";const o=function(o,c){console.log(o+c)};console.log("Test working webpack"),o(2,4),o(12,9)})();
