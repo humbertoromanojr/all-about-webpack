@@ -1,5 +1,5 @@
 <h1 align="center">
-  
+  <img src="https://i.ibb.co/xFQvjcD/webpack.png" alt="webpack" border="0">
 <br>
 <br>
 WEBPACK ESSENTIALS
