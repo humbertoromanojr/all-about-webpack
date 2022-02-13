@@ -1,1 +1,1 @@
-(()=>{"use strict";const o=function(o,c){console.log(o+c)};console.log("Test working webpack, with webpack.config"),o(2,4),o(12,9)})();
+(()=>{"use strict";const e=function(e,c){console.log(e+c)};console.log("Test working webpack, with webpack.config"),e(2,4),e(12,9),(new class{create(e){const c=document.createElement("he");c.innerText=e,document.querySelector("body").appendChild(c)}}).create("This title is dynamic")})();
