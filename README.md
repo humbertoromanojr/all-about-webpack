@@ -22,14 +22,13 @@
 
 ## Installation
 
-`
-In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.
+`In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.`
 </br></br>
 
-Example:</br>
-/webpack-essential</br>
-/webpack-intermediary
-`
+### Example:</br>
+`/webpack-essential`</br>
+`/webpack-intermediary`
+
 
 Copy project to repository
 </br>
