@@ -11,3 +11,4 @@ sum(12, 9);
 
 const heading = new Heading();
 heading.create('This title is dynamic');
+heading.create('Hot reloading dynamic');
