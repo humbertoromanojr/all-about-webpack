@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.ibb.co/g3b6q2z/webpack.png" alt="webpack" border="0">
-<br>
+</br>
 </h1>
 
 > Status do Projeto: Under development :warning: => :construction::construction::construction::construction::construction:
@@ -22,13 +22,25 @@
 
 ## Installation
 
+`
+In this repository, as mentioned before, there will be several projects related to Webpack, so the installation will have to be done for each folder we have in it.
+</br></br>
+
+Example:</br>
+/webpack-essential</br>
+/webpack-intermediary
+`
+
 Copy project to repository
+</br>
 `git clone https://github.com/humbertoromanojr/all-about-webpack.git`
 
 Install node_modules
+</br>
 `npm or yarn install`
 
 Start Bundle
+</br>
 `npm or yarn start`
 
 
